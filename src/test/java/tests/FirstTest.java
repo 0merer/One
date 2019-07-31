@@ -5,3 +5,5 @@ public class FirstTest {
         System.out.println("Hi");
     }
 }
+    git config --global core.excludesfile ~/.gitignore_global
+
